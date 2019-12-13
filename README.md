@@ -26,12 +26,12 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(16).pdf" style="text-decoration:none;">Methods of Applied Mathematics for Engineers and Scientists</a></b></li>  
                                              
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(17).pdf" style="text-decoration:none;">A First Course in Applied Mathematics</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(18).pdf" style="text-decoration:none;">ENZYMES: Biochemistry, Biotechnology and Clinical Chemistry</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(18).pdf" style="text-decoration:none;">Advances in Interdisciplinary Applied Discrete Mathematics</a></b></li>  
    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(19).pdf" style="text-decoration:none;">Zinc Enzyme Inhibitors: Enzymes from Microorganisms</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(20).pdf" style="text-decoration:none;">Biotechnology of Microbial Enzymes: Production, Biocatalysis and Industrial Applications</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(21).pdf" style="text-decoration:none;"> Bio- and Chemo-Catalytic Deracemisation Techniques</a></b></li> 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(22).pdf" style="text-decoration:none;"> From Enzyme Models to Model Enzymes</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(19).pdf" style="text-decoration:none;">Applied Mathematical and Physical Formulas</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(20).pdf" style="text-decoration:none;">Applied Mathematics: A Very Short Introduction</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(21).pdf" style="text-decoration:none;"> Some Topics in Industrial and Applied Mathematics</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(22).pdf" style="text-decoration:none;"> Mathematics for Computer Science</a></b></li> 
 
 
 
