@@ -1,9 +1,9 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(1).pdf" style="text-decoration:none;">Clinical Chemistry and Enzymology: Laboratory Manual</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(1).pdf" style="text-decoration:none;">Applied Mathematics and Modeling for Chemical Engineers</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(2).pdf" style="text-decoration:none;">Computational Enzymology, a ReaxFF approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(2).pdf" style="text-decoration:none;">Methods of Mathematics Applied to Calculus, Probability, and Statistics</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(3).pdf" style="text-decoration:none;">ENZYMES: Catalysis, Kinetics and Mechanisms</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(4).pdf" style="text-decoration:none;">Handbook of Food Enzymology</a></b></li>  
