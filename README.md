@@ -34,6 +34,39 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(22).pdf" style="text-decoration:none;"> Mathematics for Computer Science</a></b></li> 
 
 
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(23).pdf" style="text-decoration:none;">Applied Mathematics: Data Compression, Spectral Methods, Fourier Analysis, Wavelets, and Applications</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(24).pdf" style="text-decoration:none;">Dictionary of Applied Math for Engineers and Scientists</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(25).pdf" style="text-decoration:none;">Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(26).pdf" style="text-decoration:none;">Applied Mathematics and Scientific Computing</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(27).pdf" style="text-decoration:none;">Fundamental Laboratory Mathematics: Required Calculations for the Medical Laboratory Professional</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(28).pdf" style="text-decoration:none;">Number Theory</a></b></li>  
+                                             
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(7).pdf" style="text-decoration:none;">Methods in Enzymology</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(8).pdf" style="text-decoration:none;">Large-Scale Quantum-Mechanical Enzymology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(9).pdf" style="text-decoration:none;">Methods in Non-Aqueous Enzymology</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(10).rar" style="text-decoration:none;">Molecular and Cellular Enzymology, Volume I</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(11).pdf" style="text-decoration:none;">Molecular Enzymology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(12).pdf" style="text-decoration:none;">Practical Enzymology</a></b></li>  
+                                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(13).pdf" style="text-decoration:none;">Single Molecule Enzymology: Methods and Protocols</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(14).pdf" style="text-decoration:none;">Soil Biology, Volume 22</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(15).pdf" style="text-decoration:none;">Studies in Clinical Enzymology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(16).pdf" style="text-decoration:none;">Enzymology Primer for Recombinant DNA Technology</a></b></li>  
+                                             
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(17).pdf" style="text-decoration:none;">Advances in Enzymology and Related Areas of Molecular Biology</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(18).pdf" style="text-decoration:none;">ENZYMES: Biochemistry, Biotechnology and Clinical Chemistry</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(19).pdf" style="text-decoration:none;">Zinc Enzyme Inhibitors: Enzymes from Microorganisms</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(20).pdf" style="text-decoration:none;">Biotechnology of Microbial Enzymes: Production, Biocatalysis and Industrial Applications</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(21).pdf" style="text-decoration:none;"> Bio- and Chemo-Catalytic Deracemisation Techniques</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Enzymology-Books/blob/master/enz(22).pdf" style="text-decoration:none;"> From Enzyme Models to Model Enzymes</a></b></li> 
+
 
 
 
